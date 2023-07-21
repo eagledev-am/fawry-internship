@@ -1,2 +1,2 @@
-# fawry-internship
+# fawry-internship-tasks
 
