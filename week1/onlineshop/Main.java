@@ -1,10 +1,16 @@
+import java.util.HashMap;
+import java.util.Map;
+import java.util.TreeMap;
+
 public class Main {
     public static void main(String[] args) {
 
-        Product product1 = new Product("product1" , 30.5);
-        Product product2 = new Product("product2" , 100);
-        Product product3 = new Product("product3" , 90);
-        Product product4 = new Product("product4" , 40.5);
+        Product product1 = new Product("productA" , 30.5);
+        Product product2 = new Product("productB" , 100);
+        Product product3 = new Product("productC" , 90);
+        Product product4 = new Product("productD" , 40.5);
+        Product product5 = new Product("productB" , 100);
+        Product product6 = new Product("productA" , 30.5);
 
         ShoppingCart cart = new ShoppingCart();
 
@@ -12,6 +18,9 @@ public class Main {
         cart.addItem(product2);
         cart.addItem(product3);
         cart.addItem(product4);
+        cart.addItem(product5);
+        cart.addItem(product6);
+
 
         System.out.println("Cart Content : " + cart.getProducts());
         cart.removeItem(product3);
