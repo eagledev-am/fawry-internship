@@ -2,17 +2,20 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Bank {
+    
     private List<Account> accounts;
     private static Bank instance;
     private Bank(){
         accounts = new ArrayList<>();
     }
+    
     public static Bank getInstance(){
         if(instance == null){
             instance = new Bank();
         }
         return instance;
     }
+    
     public boolean addAccount(Account account){
         if(checkAccount(account.getAccountNumber()) == null) {
             accounts.add(account);
@@ -31,7 +34,6 @@ public class Bank {
         }
     }
 
-
     public void withdraw(int accountNumber , double amount){
         Account account = checkAccount(accountNumber);
         if(account != null){
@@ -41,6 +43,7 @@ public class Bank {
             System.out.println("Account not found !");
         }
     }
+    
     public void displayBalance(int accountNumber){
         Account account = checkAccount(accountNumber);
         if(account != null){
@@ -61,6 +64,7 @@ public class Bank {
             System.out.println("Account number is not existed !");
         }
     }
+    
     private Account checkAccount(int accountNumber) {
         for(Account account : accounts){
             if(account.getAccountNumber() == accountNumber){
