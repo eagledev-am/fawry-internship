@@ -1,3 +1,7 @@
-# fawry-internship-content
-this repo contains content of fawry internship
+# Fawry intern
+## About 
+this repo contains the content of fawry internship 
+## content
+[Week1](https://github.com/eagledev-am/fawry-intern/tree/main/week1)
+[Week2]()
 
