@@ -20,6 +20,7 @@ public class Account {
             balance -= amount;
         }
     }
+    
     public int getAccountNumber() {
         return accountNumber;
     }
