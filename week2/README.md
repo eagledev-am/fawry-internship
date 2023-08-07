@@ -6,8 +6,8 @@ Java collections are a set of classes and interfaces that provide a framework fo
 *  **Queue interface**
 *  **Deque interface**
 *  **Map interface**
-
-![collections-hierarchy](https://github.com/eagledev-am/fawry-intern/assets/84116267/b505764a-162e-42d5-a3c7-7061634b2d36)
+  
+![Collections-in-Java-768](https://github.com/eagledev-am/fawry-intern/assets/84116267/e67426ac-94d7-4ce6-9f18-ac62cb2b1ef1)
 ##
 ## List 
 List implements **Collection** interface that represents an ordered sequence of elements that can be accessed by index
