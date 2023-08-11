@@ -35,3 +35,46 @@ names.removeFirst();
 ```
 <img width="887" alt="list" src="https://github.com/eagledev-am/fawry-intern/assets/84116267/747fcc7a-8d4f-469c-a986-7216547243be">
 
+##
+## Set 
+Set implements **Collection**. Set is a collection of objects ts that does not allow duplicate elements. It is based on the mathematical concept of a set, which is a group of distinct values.
+
+### HashSet
+* A HashSet uses a **HashMap** to store data.
+* A HashSet is implemented using a hash table, which is a data structure that stores elements using their hash codes. A hash code is a unique value that identifies an object.
+* A HashSet provides constant time performance for basic operations such as add, remove, contains, and size, assuming the hash function distributes the elements evenly across the buckets.
+* A HashSet does not guarantee any specific order of the elements. The order may change over time as the HashSet grows or shrinks.
+```
+ Set<String> hs = new HashSet<String>();
+ hs.add("B");
+ hs.add("B");
+ hs.add("C");
+ hs.add("A");
+ System.out.println(hs);// [A , B , C]
+```
+### LinkedHashSet
+* A HashSet uses a **HashMap** to store data.
+* A HashSet is implemented using a hash table, which is a data structure that stores elements using their hash codes. A hash code is a unique value that identifies an object.
+* A HashSet provides constant time performance for basic operations such as add, remove, contains, and size, assuming the hash function distributes the elements evenly across the buckets.
+* A LinkedHashSet maintains a doubly-linked list of the elements in the order of their insertion. This means it preserves the insertion order of the elements, unlike HashSet, which does not guarantee any specific order.
+
+```
+ Set<String> hs = new LinkedHashSet<String>();
+ hs.add("B");
+ hs.add("B");
+ hs.add("C");
+ hs.add("A");
+ System.out.println(hs);[ B , C , A ]
+```
+### TreeSet 
+* TreeSet uses **TreeMap** to store data.
+* TreeSet Stores data in natural order or according to specific Comparator.
+* A TreeSet provides logarithmic time performance for basic operations such as add, remove, contains, and size, assuming the elements are comparable or a valid comparator is provided.
+```
+Set<Integer> numbers = new TreeSet<>();
+numbers.add(10);
+numbers.add(15);
+numbers.add(20); 
+numbers.add(10); 
+System.out.println(numbers); // [ 10 , 15 , 20 ]
+```
