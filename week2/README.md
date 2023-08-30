@@ -122,7 +122,7 @@ System.out.println(queue); // [Bob, Charlie]
 
 ```
 ## PriorityQueue
-* The elements of a priority queue are ordered either by their natural ordering (such as numerical or alphabetical order) or by a custom comparator that defines the priority rules123.
+* The elements of a priority queue are ordered either by their natural ordering (such as numerical or alphabetical order) or by a custom comparator that defines the priority rules.
 * A priority queue can be created with different constructors that specify the initial capacity, the comparator, or the collection of elements to be added.
 ```
 PriorityQueue<String> pq = new PriorityQueue<String>();
