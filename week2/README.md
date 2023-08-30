@@ -78,3 +78,72 @@ numbers.add(20);
 numbers.add(10); 
 System.out.println(numbers); // [ 10 , 15 , 20 ]
 ```
+##
+## Queue
+Queue implements **Collection** interface that follows first-in , first-out (FIFO) principle that is inserted first removed first.
+### LinkedList
+* A LinkedList is a Java class that implements the Queue interface, which means it can be used as a queue data structure.
+* To add an element to the end of the queue, you can use the add() method of LinkedList, which appends the specified element to the end of the list. For example: queue.add("Alice");
+* To remove an element from the front of the queue, you can use the remove() method of LinkedList, which retrieves and removes the head (first element) of the list. For example: String name = queue.remove();
+* To peek at the element at the front of the queue, you can use the peek() method of LinkedList, which returns the head (first element) of the list without removing it. For example: String first = queue.peek();.
+* Other methods of LinkedList that are inherited from the Queue interface, such as offer(), poll(), and element(), which have similar functionality to add(), remove(), and peek(), respectively.
+```
+// import the LinkedList class
+import java.util.LinkedList;
+
+// create a LinkedList object
+Queue<String> queue = new LinkedList<String>();
+
+// add some elements to the queue
+queue.add("Alice");
+queue.add("Bob");
+queue.add("Charlie");
+
+// print the queue
+System.out.println(queue); // [Alice, Bob, Charlie]
+
+// remove the first element from the queue
+String name = queue.remove();
+
+// print the removed element
+System.out.println(name); // Alice
+
+// print the queue after removal
+System.out.println(queue); // [Bob, Charlie]
+
+// peek at the first element of the queue
+String first = queue.peek();
+
+// print the first element
+System.out.println(first); // Bob
+
+// print the queue after peeking
+System.out.println(queue); // [Bob, Charlie]
+
+```
+## PriorityQueue
+* The elements of a priority queue are ordered either by their natural ordering (such as numerical or alphabetical order) or by a custom comparator that defines the priority rules123.
+* A priority queue can be created with different constructors that specify the initial capacity, the comparator, or the collection of elements to be added.
+```
+PriorityQueue<String> pq = new PriorityQueue<String>();
+
+// add some elements to the queue
+pq.add("Apple");
+pq.add("Banana");
+pq.add("Cherry");
+
+// print the queue
+System.out.println(pq); // [Apple, Banana, Cherry]
+
+// remove and print the head of the queue
+System.out.println(pq.remove()); // Apple
+
+// print the queue after removal
+System.out.println(pq); // [Banana, Cherry]
+
+// peek and print the head of the queue
+System.out.println(pq.peek()); // Banana
+
+// print the queue after peeking
+System.out.println(pq); // [Banana, Cherry]
+```
