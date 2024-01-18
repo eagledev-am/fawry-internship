@@ -19,9 +19,10 @@
 ## Git 
 >Git is a distributed version control system (DVCS) that is widely used for tracking changes in source code during software development. It allows multiple developers to collaborate on a project, keeping track of changes, merging modifications, and maintaining a complete history of the codebase.
 <br>
+
 | Resource | instructor |
 | ---------| ---------|
-| [Git and GitHub Tutorial For Beginners](https://www.youtube.com/watch?v=3fUbBnN_H2c&pp=ygUDZ2l0) | AmigosCode |
+| [Git and GitHub Tutorial For Beginners](https://www.youtube.com/watch?v=3fUbBnN_H2c&pp=ygUDZ2l0)| AmigosCode |
 
 ## Design Principle 
 > Code design principles are guidelines and best practices that help software developers create well-organized, maintainable, and efficient code. These principles contribute to the overall quality, readability, and scalability of a software system. Here are some important code design principles.
