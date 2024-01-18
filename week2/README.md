@@ -11,6 +11,7 @@ Java collections are a set of classes and interfaces that provide a framework fo
 ##
 ## List 
 List implements **Collection** interface that represents an ordered sequence of elements that can be accessed by index
+
 ### ArrayList
 * It is resizable, meaning it can grow or shrink as needed.
 * It supports random access, meaning you can access any element by its index in constant time.
