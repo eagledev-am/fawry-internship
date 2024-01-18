@@ -1,6 +1,6 @@
 # Week1
 ## OOP 
-OOP stands for Object-Oriented Programming, which is a programming paradigm that uses objects – instances of classes – for designing and organizing code. The main principles of OOP include
+> OOP stands for Object-Oriented Programming, which is a programming paradigm that uses objects – instances of classes – for designing and organizing code. The main principles of OOP include
 
 1- **Encapsulation**: This involves bundling the data (attributes) and the methods (functions) that operate on the data into a single unit known as a class. It helps in hiding the internal details of an object and exposing only what is necessary.
 
@@ -17,14 +17,14 @@ OOP stands for Object-Oriented Programming, which is a programming paradigm that
 
 
 ## Git 
-Git is a distributed version control system (DVCS) that is widely used for tracking changes in source code during software development. It allows multiple developers to collaborate on a project, keeping track of changes, merging modifications, and maintaining a complete history of the codebase.
+>Git is a distributed version control system (DVCS) that is widely used for tracking changes in source code during software development. It allows multiple developers to collaborate on a project, keeping track of changes, merging modifications, and maintaining a complete history of the codebase.
 <br>
 | Resource | instructor |
 | ---------| ---------|
 | [Git and GitHub Tutorial For Beginners](https://www.youtube.com/watch?v=3fUbBnN_H2c&pp=ygUDZ2l0) | AmigosCode |
 
 ## Design Principle 
-Code design principles are guidelines and best practices that help software developers create well-organized, maintainable, and efficient code. These principles contribute to the overall quality, readability, and scalability of a software system. Here are some important code design principles.
+> Code design principles are guidelines and best practices that help software developers create well-organized, maintainable, and efficient code. These principles contribute to the overall quality, readability, and scalability of a software system. Here are some important code design principles.
 
 1- **DRY (Don't Repeat Yourself)**:
         Avoid duplicating code. Instead, use abstractions, functions, or classes to encapsulate common functionality. This reduces redundancy, improves maintainability, and makes code easier to understand.
@@ -65,7 +65,7 @@ Code design principles are guidelines and best practices that help software deve
 | [Design priciples](https://github.com/Ahmed-Mohmed-Sakr/Fawry-Intern/blob/main/src/main/java/org/tasks/week1/Design_Principles) | Eng. Ahmed Sakr |
 
 ## Solid Principle 
-The SOLID principles are a set of five design principles that, when followed, can lead to the creation of more maintainable, flexible, and scalable software systems. The SOLID principles were introduced by Robert C. Martin and are widely used in object-oriented design. Here's a brief overview of each SOLID principle.
+> The SOLID principles are a set of five design principles that, when followed, can lead to the creation of more maintainable, flexible, and scalable software systems. The SOLID principles were introduced by Robert C. Martin and are widely used in object-oriented design. Here's a brief overview of each SOLID principle.
 
 1- **Single Responsibility Principle (SRP)**:
         A class should have only one reason to change, meaning it should have only one responsibility. This principle encourages a class to have a single, well-defined purpose. It helps in keeping classes focused and makes them easier to understand, modify, and maintain.
