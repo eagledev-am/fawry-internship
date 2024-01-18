@@ -8,13 +8,16 @@ public class ShoppingCart {
         cart = new ArrayList<>();
     }
 
+
     public void addItem(Product product){
         cart.add(product);
     }
 
+
     public void removeItem(Product product){
         cart.remove(product);
     }
+
 
     public double getTotalCost(){
         double cost = 0.0;
@@ -23,6 +26,7 @@ public class ShoppingCart {
         }
         return cost;
     }
+
 
     public List<Product> getProducts(){
         return cart;

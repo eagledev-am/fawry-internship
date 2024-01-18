@@ -11,6 +11,7 @@ public class OrderProcessor {
         System.out.println("Total Cost = $" + cart.getTotalCost());
     }
 
+
     private Map<Product , Integer> checkOrder(ShoppingCart cart){
         Map<Product , Integer> items = new HashMap<>();
         for(Product product : cart.getProducts()){

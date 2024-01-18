@@ -26,6 +26,7 @@ public class Main {
         cart.removeItem(product3);
         System.out.println("Cart Content : " + cart.getProducts());
 
+
         OrderProcessor order = new OrderProcessor();
         order.placeOrder(cart);
 
