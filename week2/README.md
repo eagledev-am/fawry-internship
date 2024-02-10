@@ -1,5 +1,5 @@
 # Collections
-Java collections are a set of classes and interfaces that provide a framework for storing and manipulating groups of objects. They allow you to perform common operations on data structures, such as searching, sorting, adding, removing, and iterating over elements. Java collections are part of the java.util package and include the following main components:
+> collections are a set of classes and interfaces that provide a framework for storing and manipulating groups of objects. They allow you to perform common operations on data structures, such as searching, sorting, adding, removing, and iterating over elements. Java collections are part of the java.util package and include the following main components:
 *  **Collection interface**
 *  **List interface**
 *  **Set interface**
