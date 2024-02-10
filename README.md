@@ -1,6 +1,6 @@
 # Fawry intern
 ## About 
-This repo has the Fawry Summer Internship content which was in In the period from July 15th to October 15th . You can find all the content and all the tasks.
+This repo has the Fawry Summer Internship content which was in In the period from July 15th to October 15th . You can find all the content and all of the tasks.
 There are some fetched resources to most of topics. 
 ## Table of contents
 
