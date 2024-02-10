@@ -28,7 +28,7 @@ These patterns deal with object creation mechanisms, trying to create objects in
 
 1- **Http Properites**
 - Statless
-- Halÿ-duplex
+- Half-duplex
 - Client-driven
 - Verbose
 
