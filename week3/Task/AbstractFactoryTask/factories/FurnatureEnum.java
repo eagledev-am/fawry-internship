@@ -1,0 +1,7 @@
+package factories;
+
+public enum FurnatureEnum {
+    CHAR_ART_DECO , CHAIR_MODERN , CHAIR_VICTORIAN ,
+    SOFA_ART_DECO , SOFA_MODERN , SOFA_VICTORIAN ,
+    TABLE_ART_DECO , TABLE_MODERN , TABLE_VICTORIAN
+}
