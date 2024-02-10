@@ -6,7 +6,7 @@
 
 | Resource | instructor |
 | ---------| ---------|
-|[Oracle SQL tutorials Arabic Course ](https://www.youtube.com/watch?v=AGsKfeHM5VI&list=PL1KA7P5hJ-obwTDetMyuMNUzkwTm-M6tG) | Ahemd Gad |
+|[Oracle SQL tutorials Arabic Course ](https://www.youtube.com/watch?v=AGsKfeHM5VI&list=PL1KA7P5hJ-obwTDetMyuMNUzkwTm-M6tG) | Eng. Ahemd Gad |
 
 ## Design Pattern
 > Design patterns are general reusable solutions to common problems encountered in software design and development. They are not code or libraries but rather guidelines on how to structure code to solve specific problems efficiently. Design patterns help developers create software that is more flexible, maintainable, and scalable by providing proven solutions to recurring design challenges.
@@ -19,7 +19,7 @@ These patterns deal with object creation mechanisms, trying to create objects in
 
 | Resource | instructor |
 | ---------| ---------|
-|[Design pattern (part 1)](https://drive.google.com/file/d/10CuNefdiOuW5hm3ZMKQcWcDoYQ0oOQtL/view?usp=sharing) | Ahemd Ali |
+|[Design pattern (part 1)](https://drive.google.com/file/d/10CuNefdiOuW5hm3ZMKQcWcDoYQ0oOQtL/view?usp=sharing) | Eng. Ahemd Ali |
 |[Creational Imp](https://github.com/eagledev-am/Design-Pattern/tree/main/creational) |  |
 
 ## REST API 
@@ -55,3 +55,4 @@ These patterns deal with object creation mechanisms, trying to create objects in
  | Resource | instructor |
 | ---------| ---------|
 |[Http](https://developer.mozilla.org/en-US/docs/Web/HTTP) |Docmination|
+![Rest Api Design](https://drive.google.com/file/d/1i_y0d3QTwl5-BloyscsFSYYHVVKOixzE/view?usp=sharing) | Eng. Hany Ahmed |
