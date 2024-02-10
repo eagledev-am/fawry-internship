@@ -6,6 +6,6 @@ There are some fetched resources to most of topics.
 
 | Week | Content | Task |
 |-----------------|-----------------|-----------------|
-| [Week1](https://github.com/eagledev-am/fawry-intern/tree/main/week1) | OOP , Design Principles , git |  |
+| [Week1](https://github.com/eagledev-am/fawry-intern/tree/main/week1) | OOP , Design Principles , git | [bankTask](https://github.com/eagledev-am/fawry-intern/tree/main/week1/bankapp) -  [onlineshop](https://github.com/eagledev-am/fawry-intern/tree/main/week1/onlineshop)|
 | [Week2](https://github.com/eagledev-am/fawry-intern/tree/main/week2)  |Collections| |
 | [Week3](https://github.com/eagledev-am/fawry-intern/tree/main/week3) |  Database , Design-Pattern , Rest Api ( part1  ) |[Abstract Factory](https://github.com/eagledev-am/fawry-intern/tree/main/week3/Task/AbstractFactoryTask) - [Singleton](https://github.com/eagledev-am/fawry-intern/tree/main/week3/Task/SingletonTask)|
