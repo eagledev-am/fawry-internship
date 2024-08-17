@@ -19,7 +19,7 @@ These patterns deal with object creation mechanisms, trying to create objects in
 
 | Resource | instructor | impl.|
 | ---------| ---------|-----------|
-|[Design pattern (part 1)](https://drive.google.com/file/d/10CuNefdiOuW5hm3ZMKQcWcDoYQ0oOQtL/view?usp=sharing) | Eng. Ahemd Ali |[Creationa patternl](https://github.com/eagledev-am/Design-Pattern/tree/main/creational) |
+|[Design pattern (part 1)](https://drive.google.com/file/d/10CuNefdiOuW5hm3ZMKQcWcDoYQ0oOQtL/view?usp=sharing) | Eng. Ahemd Ali |[Creational patternl](https://github.com/eagledev-am/Design-Pattern/tree/main/creational) |
 
 ## REST API 
 ### HTTP 
