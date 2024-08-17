@@ -54,5 +54,6 @@ These patterns deal with object creation mechanisms, trying to create objects in
 
  | Resource | instructor |
 | ---------| ---------|
-|[Http](https://developer.mozilla.org/en-US/docs/Web/HTTP) |Docmination|
+|[Http](https://developer.mozilla.org/en-US/docs/Web/HTTP) |Docmentation|
 ![Rest Api Design](https://drive.google.com/file/d/1i_y0d3QTwl5-BloyscsFSYYHVVKOixzE/view?usp=sharing) | Eng. Hany Ahmed |
+|[Effective Design of restful APIs](https://youtu.be/ROVI2G8eH78?si=69miM8MhVsuKD8pR) | |
