@@ -1,0 +1,11 @@
+
+Message : 'Sensor turns on the Water Sprinkler at 2023-08-22T11:27:28.273358200' is logged to file
+Message : 'Sensor turns off the Water Sprinkler at 2023-08-22T11:27:28.287322700' is logged to file
+Message : 'Sensor turns on the Water Sprinkler at 2023-08-22T11:27:59.761368' is logged to file
+Message : 'Sensor turned on the Alarm at 2023-08-22T11:27:59.776539800' is logged to file
+Message : 'Sensor turns off the Water Sprinkler at 2023-08-22T11:27:59.778322700' is logged to file
+Message : 'Sensor turned on the Alarm at 2023-08-22T11:27:59.779320600' is logged to file
+Message : 'Sensor turns on the Water Sprinkler at 2023-08-22T14:54:23.180694900' is logged to file
+Message : 'Sensor turned on the Alarm at 2023-08-22T14:54:23.190370100' is logged to file
+Message : 'Sensor turns off the Water Sprinkler at 2023-08-22T14:54:23.192456300' is logged to file
+Message : 'Sensor turned on the Alarm at 2023-08-22T14:54:23.192456300' is logged to file
