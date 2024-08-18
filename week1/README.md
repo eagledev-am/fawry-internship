@@ -2,7 +2,8 @@
 
 ## OOP 
 > OOP stands for Object-Oriented Programming, which is a programming paradigm that uses objects – instances of classes – for designing and organizing code. The main principles of OOP include
-
+<details close>
+  <summary><h3>Principles</h3></summary>
 1- **Encapsulation**: This involves bundling the data (attributes) and the methods (functions) that operate on the data into a single unit known as a class. It helps in hiding the internal details of an object and exposing only what is necessary.
 
 2- **Inheritance**: This allows a class (subclass or derived class) to inherit properties and behaviors from another class (superclass or base class). It promotes code reuse and the creation of a hierarchy of classes.
@@ -10,6 +11,7 @@
 3- **Polymorphism**: This concept allows objects of different classes to be treated as objects of a common base class. It enables a single interface to represent different types of objects, providing flexibility and extensibility.
 
 4- **Abstraction**: Abstraction involves simplifying complex systems by modeling classes based on the essential properties and behaviors. It allows programmers to focus on relevant details while ignoring unnecessary complexities.
+</details>
 
 <br>
 
@@ -32,6 +34,9 @@
 
 ## Design Principle 
 > Code design principles are guidelines and best practices that help software developers create well-organized, maintainable, and efficient code. These principles contribute to the overall quality, readability, and scalability of a software system. Here are some important code design principles.
+
+<details close>
+  <summary><h3>Some Principles<h3></summary>
 
 1- **DRY (Don't Repeat Yourself)**:
         Avoid duplicating code. Instead, use abstractions, functions, or classes to encapsulate common functionality. This reduces redundancy, improves maintainability, and makes code easier to understand.
@@ -66,6 +71,7 @@
 
 10- **Consistency**:
         Follow consistent naming conventions, coding styles, and patterns throughout your codebase. This makes it easier for developers to read and contribute to the code.
+</details>
 
 <br>
 
@@ -77,9 +83,11 @@
 <br>
 
 
-## Solid Principle 
+## Solid Principles 
 > The SOLID principles are a set of five design principles that, when followed, can lead to the creation of more maintainable, flexible, and scalable software systems. The SOLID principles were introduced by Robert C. Martin and are widely used in object-oriented design. Here's a brief overview of each SOLID principle.
 
+<details close>
+  <summary><h3>Principles</h3></summary>
 1- **Single Responsibility Principle (SRP)**:
         A class should have only one reason to change, meaning it should have only one responsibility. This principle encourages a class to have a single, well-defined purpose. It helps in keeping classes focused and makes them easier to understand, modify, and maintain.
 
@@ -93,7 +101,7 @@
 
 5- **Dependency Inversion Principle (DIP)**:
         High-level modules should not depend on low-level modules. Both should depend on abstractions. This principle emphasizes the importance of relying on abstractions (interfaces or abstract classes) rather than concrete implementations. It promotes the idea that the high-level modules and low-level modules should depend on the same abstractions, reducing coupling.
-
+</details>
 <br>
 
 | Resource | instructor |
@@ -102,4 +110,4 @@
 | [Learn solid principles](https://youtu.be/MrDYsFbtFZM) | Eng. Mahmoud Yousef |
 | ||
 
-You can find an implementaion for solid [here](https://github.com/eagledev-am/solid-principles)
+#### You can find an implementaion for solid [here](https://github.com/eagledev-am/solid-principles)
