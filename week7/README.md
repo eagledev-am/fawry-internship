@@ -1,5 +1,11 @@
 # Week 6
 ## JDBC and ORM ( hibernate )
+- **JDBC**
+  > a low-level API that allows Java applications to directly interact with relational databases. It provides a set of interfaces and classes to connect to a database, execute SQL queries, and process the results.
+- **Hibernate**
+  >  an Object-Relational Mapping (ORM) framework that abstracts much of the complexity of interacting with a database by allowing developers to work with Java objects instead of SQL statements.
+
+<br>
 
 | Resource | instructor |
 | ---------| ---------|
