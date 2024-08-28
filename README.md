@@ -1,4 +1,4 @@
-# Fawry intern
+# Fawry internship
 ## About 
 This repo has the Fawry Summer Internship content which was in In the period from July 15th to October 15th 2023 . You can find all the content resources and the assigned tasks solutions.
 ## Table of contents
