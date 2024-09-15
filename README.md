@@ -1,15 +1,15 @@
 # Fawry internship
-> The internship which introduced by Fawry company offers an exciting opportunity to gain hands-on experience in developing secure, scalable, and user-friendly software solutions. The internship focuses on backend development using Spring Boot and front-end development with Angular.
+The internship which introduced by Fawry company offers an exciting opportunity to gain hands-on experience in developing secure, scalable, and user-friendly software solutions. The internship focuses on backend development using Spring Boot and front-end development with Angular.
 
 ## internship overview 
 * **program Duration** : 3 Months
 * **Location** : Smart Vilage
 
+
 ## About
 > [!NOTE] 
-> This repository contains the internship content from sessions and tasks.it also includes external resources to explain the internship topics.
+> This repository contains the internship content from sessions and tasks.it also includes external resources explain the internship topics.
 
-<br>
 
 ## Table of contents
 | Week | Content | Task |
