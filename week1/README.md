@@ -30,6 +30,8 @@
 | Resource | instructor |
 | ---------| ---------|
 | [Git and GitHub Tutorial For Beginners](https://www.youtube.com/watch?v=3fUbBnN_H2c&pp=ygUDZ2l0)| AmigosCode |
+| [Git and GitHub](https://youtu.be/Q6G-J54vgKc?si=ICIrjHBdx7Wu41QY)| AmigosCode |
+
 <br>
 
 ## Design Principle 
