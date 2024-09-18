@@ -31,7 +31,7 @@
 | Resource | instructor |
 | ---------| ---------|
 |[Spring data](https://drive.google.com/file/d/1dALQce9eHehEV8FFF2b1HEwgz4mxyLh1/view?usp=sharing)    | Eng. Ali Farid |
-| |
+| Other |
 |[Spring Persistence Layer](https://www.youtube.com/watch?v=lgZ4bIbOAUA&list=PLMkr7X9JBPp4n2DTF4U1sgMTrsCRQonyG&pp=iAQB)    | Eng. Nour Shaheen |
 
 <br>
@@ -41,7 +41,7 @@
 | Resource | instructor |
 | ---------| ---------|
 |[Spring Boot](https://drive.google.com/file/d/1ZtR6xxyl5o14r9iGTh9iJw1SFvjUxkAQ/view?usp=sharing)    | Eng. Maged Mamdouh |
-| |
+| Other |
 |[Spring Boot Tutorial](https://www.youtube.com/watch?v=vSpB7FqL8Cs&list=PLMkr7X9JBPp4OlZCl0dzk8nXVb3Qygmeo&pp=iAQB)    | Eng. Nour Shaheen |
 
 
