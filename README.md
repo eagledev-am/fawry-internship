@@ -1,8 +1,17 @@
 # Fawry internship
-## About 
-This repo has the Fawry Summer Internship content which was in In the period from July 15th to October 15th 2023 . You can find all the content resources and the assigned tasks solutions.
-## Table of contents
+The internship which introduced by Fawry company offers an exciting opportunity to gain hands-on experience in developing secure, scalable, and user-friendly software solutions. The internship focuses on backend development using Spring Boot and front-end development with Angular.
 
+## internship overview 
+* **program Duration** : 3 Months
+* **Location** : Smart Vilage
+
+
+## About
+> [!NOTE] 
+> This repository contains the internship content from sessions and tasks.it also includes external resources explain the internship topics.
+
+
+## Table of contents
 | Week | Content | Task |
 |-----------------|-----------------|-----------------|
 | [Week1](https://github.com/eagledev-am/fawry-intern/tree/main/week1) | OOP , Design Principles , git | [``` bankTask ```](https://github.com/eagledev-am/fawry-intern/tree/main/week1/bankapp) -  [``` onlineshop ```](https://github.com/eagledev-am/fawry-intern/tree/main/week1/onlineshop)|
@@ -12,3 +21,4 @@ This repo has the Fawry Summer Internship content which was in In the period fro
 | [week5](https://github.com/eagledev-am/fawry-intern/tree/main/week5) | Java 8 , Design Pattern (Behavioral) | [``` Java 8 Task ```](https://github.com/eagledev-am/fawry-intern/tree/main/week5/java8-task) - [``` Design pattern Task ```](https://github.com/eagledev-am/fawry-intern/tree/main/week5/design-pattern-task) |
 |[week6](https://github.com/eagledev-am/fawry-intern/tree/main/week6)|Reactive Programming|
 |[week7](https://github.com/eagledev-am/fawry-intern/tree/main/week7)| JDBC , Jpa and Hibernate | [``` jdbc task ```](https://github.com/eagledev-am/fawry-intern/tree/main/week7/jdbctask) - [``` jpa task ```](https://github.com/eagledev-am/fawry-intern/tree/main/week7/Jpatask)|
+|[week8](https://github.com/eagledev-am/fawry-intern/tree/main/week8)| Spring core , Web Overview  | [``` Jsp servlet Task ```](https://github.com/eagledev-am/fawry-internship/tree/main/week8/jspservlettask)|
