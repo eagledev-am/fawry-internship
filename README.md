@@ -9,8 +9,8 @@ The internship which introduced by Fawry company offers an exciting opportunity 
 
 ## About
 > [!NOTE] 
-> This repository contains the internship content from sessions and tasks.
-> It also includes links for other videos which explains the topics.
+> This repository contains the internship content from recorded sessions and solutions of tasks.
+> It also includes links for videos which explains the topics.
 
 <br>
 
