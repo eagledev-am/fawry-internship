@@ -26,6 +26,7 @@ The internship which introduced by Fawry company offers an exciting opportunity 
 |[week7](https://github.com/eagledev-am/fawry-intern/tree/main/week7)| **JDBC , Jpa and Hibernate** | [``` jdbc task ```](https://github.com/eagledev-am/fawry-intern/tree/main/week7/jdbctask) - [``` jpa task ```](https://github.com/eagledev-am/fawry-intern/tree/main/week7/Jpatask)|
 |[week8](https://github.com/eagledev-am/fawry-intern/tree/main/week8)| **Spring core , Web Overview**  | [``` Jsp servlet Task ```](https://github.com/eagledev-am/fawry-internship/tree/main/week8/jspservlettask)|
 |[week9](https://github.com/eagledev-am/fawry-intern/tree/main/week9)| **Spring , Spring Data , REST API**  | [``` Spring Task ```](https://github.com/eagledev-am/fawry-internship/tree/main/week9/course-registration)|
+|[week10](https://github.com/eagledev-am/fawry-intern/tree/main/week10)| **Angular**  | |
 
 
 
